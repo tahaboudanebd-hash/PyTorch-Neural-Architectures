@@ -293,4 +293,4 @@ acc_mlp = train_vision_model(mlp_model, train_loader, test_loader, "Simple MLP",
 print("\n--- FINAL COMPARISON ---")
 print(f"Best CNN (LeNet): {acc_base:.2f}%")
 print(f"Simple MLP:       {acc_mlp:.2f}%")
-print("\nPart II Coding is 100% Complete!")
+print("\nDone")
