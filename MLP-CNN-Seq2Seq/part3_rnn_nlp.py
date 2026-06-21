@@ -328,4 +328,4 @@ if __name__ == "__main__":
         print(f"Translated: {translation.replace(' <EOS>', '')}")
         print(f"BLEU-1:     {bleu:.2f}")
 
-    print("\nPart III Coding is 100% Complete! The Deep Learning Project is done.")
+   print("\nDone")
