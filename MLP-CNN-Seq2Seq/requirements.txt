@@ -1,0 +1,11 @@
+# Deep Learning Framework
+torch
+torchvision
+
+# Data Manipulation & Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
