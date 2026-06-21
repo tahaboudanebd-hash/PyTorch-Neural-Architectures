@@ -10,7 +10,7 @@ Module: Deep Learning (2025-2026)
 
 ---
 
-## Step-by-Step Setup & Installation
+## Step-by-Step Setup
 
 Follow these steps to get the project running on any machine. The scripts are designed to **automatically download all necessary datasets** upon their first execution, so no manual data downloading is required!
 
@@ -130,7 +130,6 @@ This module tackles sequential data of variable lengths using an Encoder-Decoder
 ├── part2_cnn_vision.py         # Image classification
 ├── part3_rnn_nlp.py            # Machine translation
 ├── feature_maps_visualization.png # CNN Filter Visualization
-├── requirements.txt            # Python dependencies
-└── README.md                   # Project documentation
+└── requirements.txt            # Python dependencies
 
 ```
